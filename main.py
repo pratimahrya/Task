@@ -1,3 +1,4 @@
+from typing import *
 dictionary = {
     "name": "papaya",
     "phone": 9876545567,
